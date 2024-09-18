@@ -1,17 +1,12 @@
-# favorite_places
+# Favorite Places App
 
-A new Flutter project.
+A Flutter app to help you capture your favorite places by taking pictures, tagging their location, and saving them on your device. This app allows users to easily document and recall memorable places with just a few taps.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+<p>•	Capture Places: Take a photo of your favorite places directly within the app.</p>
+<p>•	Location Tagging: Automatically tag the location (latitude and longitude) of the place where the picture was taken.</p>
+<p>•	Save Locally: Save the image and its location to your phone for easy access.</p>
+<p>•	Location Preview: See the location on a map when reviewing your favorite places.</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# favorite-place_app
